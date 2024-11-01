@@ -1,0 +1,8 @@
+{
+  "name": "UK School System",
+  "version": "1.0.0",
+  "description": "An educational platform for students and teachers in the UK.",
+  "theme_color": "#005b99",
+  "background_color": "#f3f7fb",
+  "display": "standalone"
+}
